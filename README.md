@@ -83,6 +83,10 @@ const nisha = {
 <div align="center">
 
 ### 🍕 FoodZito — Full Stack Food Delivery App
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-foodzito.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://foodzito.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nisha1174/foodzito)
+
 [![FoodZito](https://github-readme-stats.vercel.app/api/pin/?username=Nisha1174&repo=foodzito&theme=tokyonight&hide_border=true&border_radius=15)](https://github.com/Nisha1174/foodzito)
 
 </div>
