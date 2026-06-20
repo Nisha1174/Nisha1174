@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00C9FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%F0%9F%9A%80+Aspiring+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+%7C+C%2B%2B+%7C+Python;%F0%9F%A7%A0+AI+%2F+ML+%7C+Prompt+Engineering;%F0%9F%8C%9F+Building+Real-World+Applications;%F0%9F%8E%AF+Open+to+Work+%E2%80%94+Hire+Me!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00C9FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%F0%9F%9A%80+Aspiring+JAVA+Developer;%F0%9F%92%BB+MERN+Stack+%7C+C%2B%2B+%7C+Python;%F0%9F%A7%A0+AI+%2F+ML+%7C+Prompt+Engineering;%F0%9F%8C%9F+Building+Real-World+Applications;%F0%9F%8E%AF+Open+to+Work+%E2%80%94+Hire+Me!" alt="Typing SVG" />
 </a>
 
 <br/>
