@@ -46,7 +46,7 @@ const nisha = {
   education   : "B.Tech CSE — R.R.S.D College of Engineering (2025) 🎓",
   role        : "Aspiring Full Stack Developer | Open to Work 🚀",
   languages   : ["JavaScript", "C++", "Java", "Python", "PHP"],
-  askMeAbout  : ["MERN Stack", "DSA", "AI/ML", "Prompt Engineering"],
+  askMeAbout  : ["JAVA Developer", "DSA", "AI/ML", "Prompt Engineering"],
   currentFocus: "Backend Development + AI & ML Integration 🧠",
   funFact     : "I debug with console.log and I'm not ashamed! 😄"
 };
